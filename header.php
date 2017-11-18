@@ -1,1 +1,1 @@
-<header style="background:black;text-align:center;color:white;">header aplikasi</header>
+<header style="background:black;text-align:center;color:red;">header saja</header>
