@@ -1,1 +1,1 @@
-<header style="background:black;text-align:center;color:blue">header aplikasi edited</header>
+<header style="background:black;text-align:center;color:white">header aplikasi edited</header>
